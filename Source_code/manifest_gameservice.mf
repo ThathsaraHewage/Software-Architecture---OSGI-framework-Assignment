@@ -1,0 +1,7 @@
+Bundle-Name: NUMBER GUESSING GAME by WD_33
+Bundle-Description: Game service registering Bundle 
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1
+Bundle-Activator: gameservice.Activator
+Export-Package: gameservice.service
+Import-Package: org.osgi.framework

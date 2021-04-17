@@ -1,0 +1,6 @@
+Bundle-Name: Game player
+Bundle-Description: game player using the services
+Bundle-Vendor: Apache Felix
+Bundle-Version: 1
+Bundle-Activator: player.Activator
+Import-Package: org.osgi.framework, org.osgi.util.tracker, gameservice.service
